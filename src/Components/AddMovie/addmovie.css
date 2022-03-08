@@ -1,0 +1,13 @@
+.AddMovie {
+    display: flex;
+    justify-content: center;
+
+  }
+  .rating {
+    display: flex;
+    align-items: center;
+  }
+  
+  h4 {
+    margin-right: 20px;
+  }
